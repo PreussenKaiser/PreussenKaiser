@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning game dev & rust
+- 🌱 I’m currently learning game dev & C/C++
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about my thoughts on JavaScript
 - 📫 How to reach me: Email - klukan20@gmail.com
